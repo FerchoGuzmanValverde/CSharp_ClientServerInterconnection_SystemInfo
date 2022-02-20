@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnAqGtK27yXxwu22QsVYYUsrb3m3bryPMl11+AO2gqiA4GIJH0pSkvBgwmU9/U4Ocit5CMYo+V1WSyf99GB3lA==",
+  "success": true,
+  "projectFilePath": "D:\\Univalle Provisional\\Github\\CSharp_ClientServerInterconnection_SystemInfo\\ServerApplication\\ServerApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ferna\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ferna\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

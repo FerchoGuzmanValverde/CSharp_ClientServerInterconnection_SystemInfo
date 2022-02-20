@@ -1,0 +1,16 @@
+﻿<Window x:Class="ServerApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServerApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="224" Width="466">
+    <Grid>
+        <Label x:Name="label" Content="SERVER" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnStartServer" Content="Start Server" HorizontalAlignment="Center" Margin="0,99,0,0" VerticalAlignment="Top" Height="37" Width="198" Click="btnStartServer_Click"/>
+        <Label x:Name="lblStatus" Content="Server Off" HorizontalAlignment="Center" Margin="0,60,0,0" VerticalAlignment="Top" Width="198"/>
+        <Button x:Name="btn_Close" Content="Close Server" HorizontalAlignment="Center" Margin="0,148,0,0" VerticalAlignment="Top" Height="33" Width="198" Click="btn_Close_Click"/>
+
+    </Grid>
+</Window>
